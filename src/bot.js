@@ -14,14 +14,11 @@ function postRandomQuote() {
   // Pick a random quote
   var quote = quotes[Math.floor(Math.random()*quotes.length)]
 
-  // Sanitze quote (remove double spaces)
-  var sanitizedQuote = sanitizeQuote(quote)
-
-  // Reduce length of quote to fit twitter
-  var tweetableQuote = shortenQuote(sanitizedQuote)
+  // Add author
+  var quoteWithAuthor = "\"" + quote.body + "\" ― " + quote.author.name
 
   // Post quote to twitter
-  postQuote(tweetableQuote)
+  postQuote(quoteWithAuthor)
 }
 
 /**
