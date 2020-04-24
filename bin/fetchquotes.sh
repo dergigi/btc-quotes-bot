@@ -1,2 +1,2 @@
 #!/bin/bash
-curl -u $HTTP_AUTH_USERNAME:$HTTP_AUTH_PASSWORD http://localhost:3000/quotes.json -o ../src/quotes.json
+curl -u $HTTP_AUTH_USERNAME:$HTTP_AUTH_PASSWORD https://www.bitcoin-quotes.com/quotes.json | python -m json.tool > ../src/quotes.json
