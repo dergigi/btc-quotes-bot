@@ -4,12 +4,6 @@ const quotes = require('./quotes.json')
 
 const bot = new Twit(config)
 
-const WHITEPAPER_URL = 'https://bitcoin.org/bitcoin.pdf'
-const BITCOINTALK_URL = 'https://satoshi.nakamotoinstitute.org/posts/bitcointalk/'
-const EMAIL_URL = 'https://satoshi.nakamotoinstitute.org/emails/cryptography/'
-const P2PFOUNDATION_URL = 'https://satoshi.nakamotoinstitute.org/posts/p2pfoundation/'
-
-
 function postRandomQuote() {
   // Pick a random quote
   var quote = quotes[Math.floor(Math.random()*quotes.length)]
