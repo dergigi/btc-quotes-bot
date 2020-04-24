@@ -30,7 +30,7 @@ function postRandomQuote() {
  * @param {string} quote - The quote uttered by Satoshi.
 */
 function sanitizeQuote(quote) {
-  return quote.text.replace(/  /g, " ")
+  return quote.body.replace(/  /g, " ")
 }
 
 /**
