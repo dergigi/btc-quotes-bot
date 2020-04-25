@@ -24,21 +24,26 @@ function postRandomQuote() {
 
 /**
  * Post quote to Twitter.
- * @param {string} quote - The quote uttered by Satoshi.
+ * @param {string} quoteStr - The quote to post as a String.
 */
-function postQuote(quote) {
+function postQuote(quoteStr) {
   if (config.post_to_twitter) {
     console.log("Posting quote to timeline...")
-    bot.post('statuses/update', { status: quote }, function(err, data, response) {
+    bot.post('statuses/update', { status: quoteStr }, function(err, data, response) {
       console.log(data)
     })
   } else {
-    console.log(quote)
-    console.log(quote.length + " chars")
+    console.log(quoteStr)
+    console.log(quoteStr.length + " chars")
     console.log("(Not posting quote to timeline. ENV var POST_TO_TWITTER has to be set to true.)")
   }
 }
 
+/**
+ * Check if the quote author is on twitter or not.
+ * @param {Quote.json} quote - The quote object
+ * @return {boolean}
+*/
 function isAuthorOnTwitter(quote) {
   if (quote.author.twitter.includes(TWITTER_URL)) {
     return true
@@ -46,6 +51,11 @@ function isAuthorOnTwitter(quote) {
   return false
 }
 
+/**
+ * Extract the twitter handle of the author.
+ * @param {Quote.json} quote - The quote object
+ * @return {string} Example: @dergigi
+*/
 function getAuthorTwitterHandle(quote) {
   if (!isAuthorOnTwitter(quote)) {
     return ""
