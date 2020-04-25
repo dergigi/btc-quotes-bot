@@ -7,19 +7,33 @@ const bot = new Twit(config)
 const TWITTER_URL = 'https://twitter.com/'
 
 function postRandomQuote() {
-  // Pick a random quote
-  var quote = quotes[Math.floor(Math.random()*quotes.length)]
+  var quoteWithAuthor = ""
+  do {
+    // Pick a random quote
+    var quote = quotes[Math.floor(Math.random()*quotes.length)]
+    quoteWithAuthor = formatQuoteWithAuthor(quote)
+    if (quoteWithAuthor.length > config.character_limit) {
+      console.log("Quote too long to be posted on twitter. Picking another one...")
+    }
+  } while (quoteWithAuthor.length > config.character_limit)
 
-  // Add author
+  // Post quote to twitter
+  postQuote(quoteWithAuthor)
+}
+
+/**
+ * Format the quote text and add the author at the end.
+ * @param {Quote.json} quote - The quote object
+ * @return {string}
+*/
+function formatQuoteWithAuthor(quote) {
   var quoteWithAuthor = "\"" + quote.body + "\" ― "
   if (isAuthorOnTwitter(quote)) {
     quoteWithAuthor += getAuthorTwitterHandle(quote)
   } else {
     quoteWithAuthor += quote.author.name
   }
-
-  // Post quote to twitter
-  postQuote(quoteWithAuthor)
+  return quoteWithAuthor
 }
 
 /**
