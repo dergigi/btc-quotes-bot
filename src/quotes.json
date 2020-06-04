@@ -684,30 +684,12 @@
         }
     },
     {
-        "body": "Orange is the new gold.\n",
-        "paywall_link": "https://paywall.link/to/04a4a",
-        "date": "2019-08-09",
-        "author": {
-            "name": "Kexkey",
-            "twitter": "https://twitter.com/Kexkey"
-        }
-    },
-    {
         "body": "Bitcoin doesn't need saving.",
         "paywall_link": "https://paywall.link/to/42042",
         "date": "2019-11-04",
         "author": {
             "name": "Francis Pouliot",
             "twitter": "https://twitter.com/francispouliot_"
-        }
-    },
-    {
-        "body": "A smartphone isn't really a calculator, but it can calculate as well as any calculator. A smartphone isn't really a camera, but it can take photos as well as any camera. Just like bitcoin can currency as well as any currency.",
-        "paywall_link": "https://paywall.link/to/904de",
-        "date": "2019-08-14",
-        "author": {
-            "name": "Shudra H Way",
-            "twitter": "https://twitter.com/TheShudraWay/status/1161465832251068417"
         }
     },
     {
@@ -744,15 +726,6 @@
         "author": {
             "name": "Dennis Parker",
             "twitter": "https://twitter.com/Xentagz"
-        }
-    },
-    {
-        "body": "Bitcoin is simply an opt-in, open-source software with the historically reliable property of making its users wealthy.",
-        "paywall_link": "https://paywall.link/to/bf7b8",
-        "date": "2019-08-12",
-        "author": {
-            "name": "Jesse Lawler",
-            "twitter": "https://twitter.com/Lawlerpalooza"
         }
     },
     {
@@ -807,6 +780,24 @@
         "author": {
             "name": "Jimmy Song",
             "twitter": "https://twitter.com/jimmysong"
+        }
+    },
+    {
+        "body": "A smartphone isn't really a calculator, but it can calculate as well as any calculator. A smartphone isn't really a camera, but it can take photos as well as any camera. Just like bitcoin can currency as well as any currency.",
+        "paywall_link": "https://paywall.link/to/904de",
+        "date": "2019-08-14",
+        "author": {
+            "name": "Shudra H Way",
+            "twitter": "https://twitter.com/TheShudraWay"
+        }
+    },
+    {
+        "body": "Orange is the new gold.\n",
+        "paywall_link": "https://paywall.link/to/04a4a",
+        "date": "2019-08-09",
+        "author": {
+            "name": "Kexkey",
+            "twitter": "https://twitter.com/Kexkey"
         }
     },
     {
@@ -1098,12 +1089,12 @@
         }
     },
     {
-        "body": "You can securely control neither your land nor your digitally centralized financial assets without the help of government. Thus the locality & importance of legal ownership in these things. You can securely control your globally seamless Bitcoin without the help of government.",
-        "paywall_link": "https://paywall.link/to/86523",
-        "date": "2020-01-07",
+        "body": "In comparison to modern distributed databases, blockchains are slow, ponderous, unnecessarily redundant and overly paranoid.",
+        "paywall_link": "https://paywall.link/to/fb3f4",
+        "date": "2017-12-01",
         "author": {
-            "name": "Nick Szabo",
-            "twitter": "https://twitter.com/NickSzabo4/status/1214354362387951617?s=20"
+            "name": "Dhruv Bansal",
+            "twitter": "https://twitter.com/dhruvbansal"
         }
     },
     {
@@ -1386,15 +1377,6 @@
         }
     },
     {
-        "body": "Those who wait last to convert to bitcoin will be impoverished by Bitcoin.",
-        "paywall_link": "https://paywall.link/to/968fd",
-        "date": "2019-06-05",
-        "author": {
-            "name": "David Bailey",
-            "twitter": "https://twitter.com/DavidFBailey"
-        }
-    },
-    {
         "body": "Bitcoin not having a \u201ccommunity\u201d is a feature.",
         "paywall_link": "https://paywall.link/to/8b6bc",
         "date": "2020-02-23",
@@ -1419,24 +1401,6 @@
         "author": {
             "name": "Marty Bent",
             "twitter": "https://twitter.com/MartyBent"
-        }
-    },
-    {
-        "body": "I like to call the lightning network a fee aggregation network.",
-        "paywall_link": "https://paywall.link/to/f1b3a",
-        "date": "2019-04-12",
-        "author": {
-            "name": "Sergej Kotliar",
-            "twitter": "https://twitter.com/ziggamon"
-        }
-    },
-    {
-        "body": "I AM HODLING",
-        "paywall_link": "https://paywall.link/to/10248",
-        "date": "2013-12-18",
-        "author": {
-            "name": "Game Kyuubi",
-            "twitter": "https://bitcointalk.org/index.php?action=profile;u=26945"
         }
     },
     {
@@ -1503,33 +1467,6 @@
         }
     },
     {
-        "body": "Satoshi built all of humanity a weapon to take that power for ourselves.",
-        "paywall_link": "https://paywall.link/to/655df",
-        "date": "2019-04-11",
-        "author": {
-            "name": "Hector Rosekrans",
-            "twitter": "https://twitter.com/hectorrosekrans"
-        }
-    },
-    {
-        "body": "It doesn't matter if you have nothing to hide. Because privacy isn't about something to hide. Privacy is about something to protect. And the thing to protect is a free and open society.",
-        "paywall_link": "https://paywall.link/to/5f8a0",
-        "date": "2019-06-29",
-        "author": {
-            "name": "Edward Snowden",
-            "twitter": "https://twitter.com/Snowden"
-        }
-    },
-    {
-        "body": "It is not a cryptocurrency industry, it is a Bitcoin industry.",
-        "paywall_link": "https://paywall.link/to/e980b",
-        "date": "2019-01-08",
-        "author": {
-            "name": "Neil Woodfine",
-            "twitter": "https://twitter.com/nwoodfine"
-        }
-    },
-    {
         "body": "No one has found the bottom of the Bitcoin rabbit hole.",
         "paywall_link": "https://paywall.link/to/a361c",
         "date": "2018-11-11",
@@ -1593,12 +1530,48 @@
         }
     },
     {
-        "body": "Bitcoin is text. Bitcoin is speech. It cannot be regulated in a free country like the USA with guaranteed inalienable rights and a First Amendment that explicitly excludes the act of publishing from government oversight.",
-        "paywall_link": "https://paywall.link/to/1d051",
-        "date": "2018-03-15",
+        "body": "Satoshi built all of humanity a weapon to take that power for ourselves.",
+        "paywall_link": "https://paywall.link/to/655df",
+        "date": "2019-04-11",
         "author": {
-            "name": "Beautyon",
-            "twitter": "https://twitter.com/Beautyon_"
+            "name": "Hector Rosekrans",
+            "twitter": "https://twitter.com/hectorrosekrans"
+        }
+    },
+    {
+        "body": "I AM HODLING",
+        "paywall_link": "https://paywall.link/to/10248",
+        "date": "2013-12-18",
+        "author": {
+            "name": "Game Kyuubi",
+            "twitter": "https://bitcointalk.org/index.php?action=profile;u=26945"
+        }
+    },
+    {
+        "body": "Those who wait last to convert to bitcoin will be impoverished by Bitcoin.",
+        "paywall_link": "https://paywall.link/to/968fd",
+        "date": "2019-06-05",
+        "author": {
+            "name": "David Bailey",
+            "twitter": "https://twitter.com/DavidFBailey"
+        }
+    },
+    {
+        "body": "It doesn't matter if you have nothing to hide. Because privacy isn't about something to hide. Privacy is about something to protect. And the thing to protect is a free and open society.",
+        "paywall_link": "https://paywall.link/to/5f8a0",
+        "date": "2019-06-29",
+        "author": {
+            "name": "Edward Snowden",
+            "twitter": "https://twitter.com/Snowden"
+        }
+    },
+    {
+        "body": "It is not a cryptocurrency industry, it is a Bitcoin industry.",
+        "paywall_link": "https://paywall.link/to/e980b",
+        "date": "2019-01-08",
+        "author": {
+            "name": "Neil Woodfine",
+            "twitter": "https://twitter.com/nwoodfine"
         }
     },
     {
@@ -1746,15 +1719,6 @@
         }
     },
     {
-        "body": "Privacy is necessary for an open society in the electronic age.",
-        "paywall_link": "https://paywall.link/to/db690",
-        "date": "1993-03-09",
-        "author": {
-            "name": "Eric Hughes",
-            "twitter": "https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)"
-        }
-    },
-    {
         "body": "First, there are no bitcoins. There just aren\u2019t. They don\u2019t exist. There are ledger entries in a ledger that\u2019s shared [\u2026] They don\u2019t exist in any physical location. The ledger exists in every physical location, essentially. Geography doesn\u2019t make sense here.",
         "paywall_link": "https://paywall.link/to/dfc7d",
         "date": "2018-11-21",
@@ -1782,30 +1746,12 @@
         }
     },
     {
-        "body": "If nuclear war destroyed half of our planet, [Bitcoin] would continue to live, uncorrupted.",
-        "paywall_link": "https://paywall.link/to/38db8",
-        "date": "2016-05-31",
-        "author": {
-            "name": "Ralph Merkle",
-            "twitter": "https://en.wikipedia.org/wiki/Ralph_Merkle"
-        }
-    },
-    {
         "body": "Decentralized and private payments are a necessary innovation for a digital future where we retain our civil liberties and personal freedoms.",
         "paywall_link": "https://paywall.link/to/d353d",
         "date": "2019-06-27",
         "author": {
             "name": "Alex Gladstein",
             "twitter": "https://twitter.com/gladstein"
-        }
-    },
-    {
-        "body": "There is no right and wrong choice of money. There are, however, consequences to choices.",
-        "paywall_link": "https://paywall.link/to/d3e49",
-        "date": "2018-04-01",
-        "author": {
-            "name": "Saifedean Ammous",
-            "twitter": "https://twitter.com/saifedean"
         }
     },
     {
@@ -1818,12 +1764,21 @@
         }
     },
     {
-        "body": "In comparison to modern distributed databases, blockchains are slow, ponderous, unnecessarily redundant and overly paranoid.",
-        "paywall_link": "https://paywall.link/to/fb3f4",
-        "date": "2017-12-01",
+        "body": "Bitcoin is text. Bitcoin is speech. It cannot be regulated in a free country like the USA with guaranteed inalienable rights and a First Amendment that explicitly excludes the act of publishing from government oversight.",
+        "paywall_link": "https://paywall.link/to/1d051",
+        "date": "2018-03-15",
         "author": {
-            "name": "Dhruv Bansal",
-            "twitter": "https://twitter.com/dhruvbansal"
+            "name": "Beautyon",
+            "twitter": "https://twitter.com/Beautyon_"
+        }
+    },
+    {
+        "body": "Privacy is necessary for an open society in the electronic age.",
+        "paywall_link": "https://paywall.link/to/db690",
+        "date": "1993-03-09",
+        "author": {
+            "name": "Eric Hughes",
+            "twitter": "https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)"
         }
     },
     {
@@ -1872,33 +1827,6 @@
         }
     },
     {
-        "body": "There is no capacity to kill Bitcoin. Even the Chinese with their firewall and their extreme intervention in their society could not kill Bitcoin. [\u2026] My point here is: You can\u2019t kill Bitcoin.",
-        "paywall_link": "https://paywall.link/to/246bf",
-        "date": "2019-07-17",
-        "author": {
-            "name": "Patrick McHenry",
-            "twitter": "https://twitter.com/PatrickMcHenry"
-        }
-    },
-    {
-        "body": "Governments can not stop this innovation.",
-        "paywall_link": "https://paywall.link/to/91437",
-        "date": "2019-07-17",
-        "author": {
-            "name": "Patrick McHenry",
-            "twitter": "https://twitter.com/PatrickMcHenry"
-        }
-    },
-    {
-        "body": "Honey badger don\u2019t care, honey badger don\u2019t give a fuck.",
-        "paywall_link": "https://paywall.link/to/6e3d1",
-        "date": "2011-01-18",
-        "author": {
-            "name": "Randall",
-            "twitter": ""
-        }
-    },
-    {
         "body": "Sats are my safe haven.",
         "paywall_link": "https://paywall.link/to/c1c46",
         "date": "2019-08-05",
@@ -1923,15 +1851,6 @@
         "author": {
             "name": "Adam Back",
             "twitter": "https://twitter.com/adam3us"
-        }
-    },
-    {
-        "body": "Satoshi Nakamoto's main invention is the decentralized mechanism for emergent consensus.",
-        "paywall_link": "https://paywall.link/to/89aae",
-        "date": "2017-07-03",
-        "author": {
-            "name": "Andreas Antonopoulos",
-            "twitter": "https://twitter.com/aantonop"
         }
     },
     {
@@ -1974,15 +1893,6 @@
         "body": "Bitcoin is insurance against politicians.",
         "paywall_link": "https://paywall.link/to/b5ae4",
         "date": "2018-06-24",
-        "author": {
-            "name": "Naval Ravikant",
-            "twitter": "https://twitter.com/naval"
-        }
-    },
-    {
-        "body": "Imagine a Swiss Bank Account that\u2019s immune to pressure but has limited space. New depositors have to buy space from existing ones.",
-        "paywall_link": "https://paywall.link/to/e703f",
-        "date": "2019-05-20",
         "author": {
             "name": "Naval Ravikant",
             "twitter": "https://twitter.com/naval"
@@ -2049,6 +1959,510 @@
         "author": {
             "name": "Obi-Wan Kenobit",
             "twitter": "https://twitter.com/ObiWanKenoBit"
+        }
+    },
+    {
+        "body": "I like to call the lightning network a fee aggregation network.",
+        "paywall_link": "https://paywall.link/to/f1b3a",
+        "date": "2019-04-12",
+        "author": {
+            "name": "Sergej Kotliar",
+            "twitter": "https://twitter.com/ziggamon"
+        }
+    },
+    {
+        "body": "Bitcoin is simply an opt-in, open-source software with the historically reliable property of making its users wealthy.",
+        "paywall_link": "https://paywall.link/to/bf7b8",
+        "date": "2019-08-12",
+        "author": {
+            "name": "Jesse Lawler",
+            "twitter": "https://twitter.com/Lawlerpalooza"
+        }
+    },
+    {
+        "body": "You can securely control neither your land nor your digitally centralized financial assets without the help of government. Thus the locality & importance of legal ownership in these things. You can securely control your globally seamless Bitcoin without the help of government.",
+        "paywall_link": "https://paywall.link/to/86523",
+        "date": "2020-01-07",
+        "author": {
+            "name": "Nick Szabo",
+            "twitter": "https://twitter.com/NickSzabo4"
+        }
+    },
+    {
+        "body": "If nuclear war destroyed half of our planet, [Bitcoin] would continue to live, uncorrupted.",
+        "paywall_link": "https://paywall.link/to/38db8",
+        "date": "2016-05-31",
+        "author": {
+            "name": "Ralph Merkle",
+            "twitter": "https://en.wikipedia.org/wiki/Ralph_Merkle"
+        }
+    },
+    {
+        "body": "Honey badger don\u2019t care, honey badger don\u2019t give a fuck.",
+        "paywall_link": "https://paywall.link/to/6e3d1",
+        "date": "2011-01-18",
+        "author": {
+            "name": "Randall",
+            "twitter": ""
+        }
+    },
+    {
+        "body": "Governments can not stop this innovation.",
+        "paywall_link": "https://paywall.link/to/91437",
+        "date": "2019-07-17",
+        "author": {
+            "name": "Patrick McHenry",
+            "twitter": "https://twitter.com/PatrickMcHenry"
+        }
+    },
+    {
+        "body": "Satoshi Nakamoto's main invention is the decentralized mechanism for emergent consensus.",
+        "paywall_link": "https://paywall.link/to/89aae",
+        "date": "2017-07-03",
+        "author": {
+            "name": "Andreas Antonopoulos",
+            "twitter": "https://twitter.com/aantonop"
+        }
+    },
+    {
+        "body": "Bitcoin is so simple, yet so complex.",
+        "paywall_link": "https://paywall.link/to/1b825",
+        "date": "2020-04-22",
+        "author": {
+            "name": "Thibaud Mar\u00e9chal",
+            "twitter": "https://twitter.com/thibm_"
+        }
+    },
+    {
+        "body": "Being weird is one of Bitcoin\u2019s defense mechanisms.",
+        "paywall_link": "https://paywall.link/to/1a41d",
+        "date": "2020-05-16",
+        "author": {
+            "name": "Alex Gladstein",
+            "twitter": "https://twitter.com/gladstein"
+        }
+    },
+    {
+        "body": "Bitcoin fixes you.",
+        "paywall_link": "https://paywall.link/to/d5e8f",
+        "date": "2020-04-28",
+        "author": {
+            "name": "Pierre Rochard",
+            "twitter": "https://twitter.com/pierre_rochard"
+        }
+    },
+    {
+        "body": "Through owning bitcoin you are part of the revolution.",
+        "paywall_link": "https://paywall.link/to/4f2e7",
+        "date": "2020-04-25",
+        "author": {
+            "name": "Dan Held",
+            "twitter": "https://twitter.com/danheld"
+        }
+    },
+    {
+        "body": "Bitcoin doesn't pretend, lie or manipulate.",
+        "paywall_link": "https://paywall.link/to/1e0a5",
+        "date": "2020-04-19",
+        "author": {
+            "name": "Hodlonaut",
+            "twitter": "https://twitter.com/hodlonaut"
+        }
+    },
+    {
+        "body": "Money is the base layer of civilization.",
+        "paywall_link": "https://paywall.link/to/f1f4f",
+        "date": "2020-04-19",
+        "author": {
+            "name": "Jimmy Song",
+            "twitter": "https://twitter.com/jimmysong"
+        }
+    },
+    {
+        "body": "Vote with your dollars by converting them to bitcoin. Polls are open 24/7/365.",
+        "paywall_link": "https://paywall.link/to/b52f4",
+        "date": "2020-04-23",
+        "author": {
+            "name": "Marty Bent",
+            "twitter": "https://twitter.com/MartyBent"
+        }
+    },
+    {
+        "body": "Price is irrelevant, freedom is priceless.",
+        "paywall_link": "https://paywall.link/to/18db6",
+        "date": "2020-04-23",
+        "author": {
+            "name": "Justine",
+            "twitter": "https://twitter.com/MsHodl"
+        }
+    },
+    {
+        "body": "Bitcoin is perhaps the first scarce thing in the world we can say we truly possess.",
+        "paywall_link": "https://paywall.link/to/8c48c",
+        "date": "2020-04-23",
+        "author": {
+            "name": "Jimmy Song",
+            "twitter": "https://twitter.com/jimmysong"
+        }
+    },
+    {
+        "body": "Bitcoin is a device for transferring wealth from the impatient to the patient.",
+        "paywall_link": "https://paywall.link/to/448e2",
+        "date": "2020-04-21",
+        "author": {
+            "name": "Stephan Livera",
+            "twitter": "https://twitter.com/stephanlivera"
+        }
+    },
+    {
+        "body": "Once launched it cannot be stopped, come what may.",
+        "paywall_link": "https://paywall.link/to/d27fb",
+        "date": "2018-12-28",
+        "author": {
+            "name": "Simon Morris",
+            "twitter": "https://twitter.com/simonhmorris"
+        }
+    },
+    {
+        "body": "Shitcoins are created to take your Bitcoin.",
+        "paywall_link": "https://paywall.link/to/36e5b",
+        "date": "2020-05-14",
+        "author": {
+            "name": "Mr. Hodl",
+            "twitter": "https://twitter.com/MrHodl"
+        }
+    },
+    {
+        "body": "Bitcoin is risky but certain.",
+        "paywall_link": "https://paywall.link/to/ee1ee",
+        "date": "2020-05-08",
+        "author": {
+            "name": "Pierre Rochard",
+            "twitter": "https://twitter.com/pierre_rochard"
+        }
+    },
+    {
+        "body": "Sometimes I think it would be easier to explain why Bitcoin matters to someone in England 800 years ago than it is to do so today.",
+        "paywall_link": "https://paywall.link/to/03218",
+        "date": "2020-06-13",
+        "author": {
+            "name": "David Lawant",
+            "twitter": "https://twitter.com/DavidLawant_BTC"
+        }
+    },
+    {
+        "body": "Digital scarcity can only occur once.",
+        "paywall_link": "https://paywall.link/to/fe036",
+        "date": "2020-05-07",
+        "author": {
+            "name": "Dennis Parker",
+            "twitter": "https://twitter.com/Xentagz"
+        }
+    },
+    {
+        "body": "Fix the money, fix the world. It's really that simple.",
+        "paywall_link": "https://paywall.link/to/5a6be",
+        "date": "2020-05-04",
+        "author": {
+            "name": "Marty Bent",
+            "twitter": "https://twitter.com/MartyBent"
+        }
+    },
+    {
+        "body": "[Bitcoin] is going to be more scarce than gold based on stock-to-flow ratio, in an environment where the entire world is printing money.",
+        "paywall_link": "https://paywall.link/to/62b19",
+        "date": "2020-05-01",
+        "author": {
+            "name": "Brian Kelly",
+            "twitter": "https://twitter.com/BKBrianKelly"
+        }
+    },
+    {
+        "body": "This thing is not a toy anymore, and it\u2019s maybe not an asset anymore as well. It is going to be much bigger than that.",
+        "paywall_link": "https://paywall.link/to/ab096",
+        "date": "2020-05-01",
+        "author": {
+            "name": "Plan B",
+            "twitter": "https://twitter.com/100trillionUSD"
+        }
+    },
+    {
+        "body": "Bitcoin doesn\u2019t care about who you are or what your feelings are. Bitcoin represents equal opportunity to participate in a system not encumbered by our legacy fiat structures.",
+        "paywall_link": "https://paywall.link/to/c3593",
+        "date": "2020-04-28",
+        "author": {
+            "name": "White Rabbit",
+            "twitter": "https://twitter.com/WhiteRabbitBTC"
+        }
+    },
+    {
+        "body": "The goal isn't to live forever, the goal is to help create something that will. #Bitcoin",
+        "paywall_link": "https://paywall.link/to/40e8f",
+        "date": "2020-04-28",
+        "author": {
+            "name": "Jack Mallers",
+            "twitter": "https://twitter.com/JackMallers"
+        }
+    },
+    {
+        "body": "We have something that is pretty organic in nature and very principled in its original design.",
+        "paywall_link": "https://paywall.link/to/3174b",
+        "date": "2020-04-24",
+        "author": {
+            "name": "Jack Dorsey",
+            "twitter": "https://twitter.com/jack"
+        }
+    },
+    {
+        "body": "Bitcoin number go up means state power go down.",
+        "paywall_link": "https://paywall.link/to/60125",
+        "date": "2020-04-25",
+        "author": {
+            "name": "Stephen Cole",
+            "twitter": "https://twitter.com/sthenc"
+        }
+    },
+    {
+        "body": "We're here to unfuck the money and there's no stopping us. Fix the money, change the world.",
+        "paywall_link": "https://paywall.link/to/47dfc",
+        "date": "2020-04-24",
+        "author": {
+            "name": "White Rabbit",
+            "twitter": "https://twitter.com/WhiteRabbitBTC"
+        }
+    },
+    {
+        "body": "Masses will not buy bitcoin. Masses will earn it.",
+        "paywall_link": "https://paywall.link/to/b45fd",
+        "date": "2020-04-18",
+        "author": {
+            "name": "Suheb Saubyk",
+            "twitter": "https://twitter.com/Suheb__"
+        }
+    },
+    {
+        "body": "I honestly have no idea how one could look at the world of today, sincerely understand what bitcoin is and reject it.",
+        "paywall_link": "https://paywall.link/to/bbec6",
+        "date": "2020-04-17",
+        "author": {
+            "name": "Erik Cason",
+            "twitter": "https://twitter.com/Erikcason"
+        }
+    },
+    {
+        "body": "Bitcoin is the most successful privacy coin to date.",
+        "paywall_link": "https://paywall.link/to/7b1ab",
+        "date": "2020-04-16",
+        "author": {
+            "name": "Pierre Rochard",
+            "twitter": "https://twitter.com/pierre_rochard"
+        }
+    },
+    {
+        "body": "In Bitcoin, never attribute to stupidity that which is adequately explained by malice.",
+        "paywall_link": "https://paywall.link/to/482e4",
+        "date": "2020-04-15",
+        "author": {
+            "name": "Christian Keroles",
+            "twitter": "https://twitter.com/ck_SNARKs"
+        }
+    },
+    {
+        "body": "Bitcoin is the most important political movement of our time.",
+        "paywall_link": "https://paywall.link/to/5830f",
+        "date": "2020-04-13",
+        "author": {
+            "name": "Ryan Selkis",
+            "twitter": "https://twitter.com/twobitidiot"
+        }
+    },
+    {
+        "body": "Bitcoin is not an inflation hedge, it's a system hedge.",
+        "paywall_link": "https://paywall.link/to/cd052",
+        "date": "2020-04-05",
+        "author": {
+            "name": "Raoul Pal",
+            "twitter": "https://twitter.com/RaoulGMI"
+        }
+    },
+    {
+        "body": "Bitcoin raised $0 to become the internet of money.",
+        "paywall_link": "https://paywall.link/to/d55c2",
+        "date": "2020-03-05",
+        "author": {
+            "name": "Dan Held",
+            "twitter": "https://twitter.com/danheld"
+        }
+    },
+    {
+        "body": "Bitcoin is a game we play where we can easily tell when someone is cheating.",
+        "paywall_link": "https://paywall.link/to/47e6f",
+        "date": "2020-03-03",
+        "author": {
+            "name": "Dhruv Bansal",
+            "twitter": "https://twitter.com/dhruvbansal"
+        }
+    },
+    {
+        "body": "UASF and the defeat of SegWit2x were the most bullish things I've ever seen in Bitcoin. Big companies with money and influence\u2014miners, exchanges, and VCs\u2014colluded to force Bitcoin to change. Bitcoin didn't change.",
+        "paywall_link": "https://paywall.link/to/1724d",
+        "date": "2020-05-13",
+        "author": {
+            "name": "Stephen Cole",
+            "twitter": "https://twitter.com/sthenc"
+        }
+    },
+    {
+        "body": "The Bitcoin tree is tall; its branches spread wide and its roots run deep.",
+        "paywall_link": "https://paywall.link/to/32d01",
+        "date": "2020-04-21",
+        "author": {
+            "name": "Martin Fischer",
+            "twitter": "https://twitter.com/0xtail1"
+        }
+    },
+    {
+        "body": "Bitcoin is a discovery on par with that of the wheel, the number zero or the ability to start a fire, mistaken for a gimmick by the masses.",
+        "paywall_link": "https://paywall.link/to/0293d",
+        "date": "2020-04-18",
+        "author": {
+            "name": "Knut Svanholm",
+            "twitter": "https://twitter.com/knutsvanholm"
+        }
+    },
+    {
+        "body": "There is no capacity to kill Bitcoin. Even the Chinese with their firewall and their extreme intervention in their society could not kill Bitcoin. [\u2026] My point here is: You can\u2019t kill Bitcoin.",
+        "paywall_link": "https://paywall.link/to/246bf",
+        "date": "2019-07-17",
+        "author": {
+            "name": "Patrick McHenry",
+            "twitter": "https://twitter.com/PatrickMcHenry"
+        }
+    },
+    {
+        "body": "To ascribe to the State the power of dictating the laws of exchange, is to ignore the fundamental principles of money-using society.",
+        "paywall_link": "https://paywall.link/to/a61ec",
+        "date": "1912-01-01",
+        "author": {
+            "name": "Ludwig von Mises",
+            "twitter": "https://en.wikipedia.org/wiki/Ludwig_von_Mises"
+        }
+    },
+    {
+        "body": "There is no right and wrong choice of money. There are, however, consequences to choices.",
+        "paywall_link": "https://paywall.link/to/d3e49",
+        "date": "2018-04-01",
+        "author": {
+            "name": "Saifedean Ammous",
+            "twitter": "https://twitter.com/saifedean"
+        }
+    },
+    {
+        "body": "Bitcoin is a high-tech implementation of 19th century economic ideas. It's a restorative, not progressive technology.",
+        "paywall_link": "https://paywall.link/to/dbab8",
+        "date": "2020-05-18",
+        "author": {
+            "name": "Nic Carter",
+            "twitter": "https://twitter.com/nic__carter"
+        }
+    },
+    {
+        "body": "Freedom is decentralized. Permission is centralized.",
+        "paywall_link": "https://paywall.link/to/f1d5b",
+        "date": "2020-05-18",
+        "author": {
+            "name": "Jimmy Song",
+            "twitter": "https://twitter.com/jimmysong"
+        }
+    },
+    {
+        "body": "The reason I own bitcoin is BECAUSE the Federal Reserve \"isn\u2019t out of tools by a long shot.\"",
+        "paywall_link": "https://paywall.link/to/46d42",
+        "date": "2020-05-18",
+        "author": {
+            "name": "Preston Pysh",
+            "twitter": "https://twitter.com/PrestonPysh"
+        }
+    },
+    {
+        "body": "Bitcoin has a 4 letter explanation: brrr. If you don\u2019t understand that yet, you will soon. Until then, DYOR.",
+        "paywall_link": "https://paywall.link/to/66646",
+        "date": "2020-05-18",
+        "author": {
+            "name": "White Rabbit",
+            "twitter": "https://twitter.com/WhiteRabbitBTC"
+        }
+    },
+    {
+        "body": "Bitcoin succeeds because it's sound, anti-fragile, resilient.",
+        "paywall_link": "https://paywall.link/to/f7c99",
+        "date": "2020-05-15",
+        "author": {
+            "name": "Dhruv Bansal",
+            "twitter": "https://twitter.com/dhruvbansal"
+        }
+    },
+    {
+        "body": "[Bitcoin] is the non-violent revolution that we have been hoping and praying for.",
+        "paywall_link": "https://paywall.link/to/44ac0",
+        "date": "2020-05-21",
+        "author": {
+            "name": "Erik Cason",
+            "twitter": "https://twitter.com/Erikcason"
+        }
+    },
+    {
+        "body": "[Bitcoin is] like a machine that turns greed into freedom.",
+        "paywall_link": "https://paywall.link/to/4aaa2",
+        "date": "2020-05-24",
+        "author": {
+            "name": "Alex Gladstein",
+            "twitter": "https://twitter.com/gladstein"
+        }
+    },
+    {
+        "body": "Compared to Bitcoin, not even gold is safe\u2026",
+        "paywall_link": "https://paywall.link/to/f1fd2",
+        "date": "2020-05-28",
+        "author": {
+            "name": "Robert Breedlove",
+            "twitter": "https://twitter.com/Breedlove22"
+        }
+    },
+    {
+        "body": "Somewhere in the dark is a dimly lit exit sign that reads \"Bitcoin\".",
+        "paywall_link": "https://paywall.link/to/1f6fd",
+        "date": "2020-06-02",
+        "author": {
+            "name": "Hodl Full Throttle",
+            "twitter": "https://twitter.com/econoalchemist"
+        }
+    },
+    {
+        "body": "Bitcoin isn't about buying a latte with your mobile phone, it is about making the transactions that they say you can't make.",
+        "paywall_link": "https://paywall.link/to/88f13",
+        "date": "2015-12-09",
+        "author": {
+            "name": "Keonne Rodriguez",
+            "twitter": "https://twitter.com/keonne"
+        }
+    },
+    {
+        "body": "Bitcoin is radically changing the world by being unchangeable.",
+        "paywall_link": "https://paywall.link/to/874f5",
+        "date": "2020-05-21",
+        "author": {
+            "name": "Robert Breedlove",
+            "twitter": "https://twitter.com/Breedlove22"
+        }
+    },
+    {
+        "body": "Bitcoin is a seed of hope in a society which lost vision years ago and perspective just recently.",
+        "paywall_link": "https://paywall.link/to/7dfd5",
+        "date": "2020-05-01",
+        "author": {
+            "name": "Kim Neunert",
+            "twitter": "https://twitter.com/k9ert"
         }
     }
 ]
