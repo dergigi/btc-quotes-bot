@@ -7,7 +7,8 @@
     "start": "node index.js",
     "test": "./node_modules/.bin/mocha --reporter spec",
     "lint": "node_modules/.bin/goodparts *.js src/**",
-    "reply": "node reply.js"
+    "reply": "node reply.js",
+    "fetch": "sh ./bin/fetchquotes.sh"
   },
   "keywords": [
     "twitter",
