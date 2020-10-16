@@ -1559,20 +1559,20 @@
     "twitter": "https://twitter.com/gladstein"
   }
 }, {
-  "body": "Privacy is necessary for an open society in the electronic age.",
-  "paywall_link": "https://paywall.link/to/db690",
-  "date": "1993-03-09",
-  "author": {
-    "name": "Eric Hughes",
-    "twitter": "https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)"
-  }
-}, {
   "body": "Bitcoin is text. Bitcoin is speech. It cannot be regulated in a free country like the USA with guaranteed inalienable rights and a First Amendment that explicitly excludes the act of publishing from government oversight.",
   "paywall_link": "https://paywall.link/to/1d051",
   "date": "2018-03-15",
   "author": {
     "name": "Beautyon",
     "twitter": "https://twitter.com/Beautyon_"
+  }
+}, {
+  "body": "Privacy is necessary for an open society in the electronic age.",
+  "paywall_link": "https://paywall.link/to/db690",
+  "date": "1993-03-09",
+  "author": {
+    "name": "Eric Hughes",
+    "twitter": "https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)"
   }
 }, {
   "body": "By attaching energy to a block, we give it “form”, allowing it to have real weight \u0026 consequences in the physical world.",
@@ -1751,14 +1751,6 @@
     "twitter": "https://twitter.com/NickSzabo4"
   }
 }, {
-  "body": "If nuclear war destroyed half of our planet, [Bitcoin] would continue to live, uncorrupted.",
-  "paywall_link": "https://paywall.link/to/38db8",
-  "date": "2016-05-31",
-  "author": {
-    "name": "Ralph Merkle",
-    "twitter": "https://en.wikipedia.org/wiki/Ralph_Merkle"
-  }
-}, {
   "body": "Honey badger don’t care, honey badger don’t give a fuck.",
   "paywall_link": "https://paywall.link/to/6e3d1",
   "date": "2011-01-18",
@@ -1821,14 +1813,6 @@
   "author": {
     "name": "Thibaud Maréchal",
     "twitter": "https://twitter.com/thibm_"
-  }
-}, {
-  "body": "We have something that is pretty organic in nature and very principled in its original design.",
-  "paywall_link": "https://paywall.link/to/3174b",
-  "date": "2020-04-24",
-  "author": {
-    "name": "Jack Dorsey",
-    "twitter": "https://twitter.com/jack"
   }
 }, {
   "body": "Being weird is one of Bitcoin’s defense mechanisms.",
@@ -1903,12 +1887,12 @@
     "twitter": "https://twitter.com/stephanlivera"
   }
 }, {
-  "body": "Once launched it cannot be stopped, come what may.",
-  "paywall_link": "https://paywall.link/to/d27fb",
-  "date": "2018-12-28",
+  "body": "We have something that is pretty organic in nature and very principled in its original design.",
+  "paywall_link": "https://paywall.link/to/3174b",
+  "date": "2020-04-24",
   "author": {
-    "name": "Simon Morris",
-    "twitter": "https://twitter.com/simonhmorris"
+    "name": "Jack Dorsey",
+    "twitter": "https://twitter.com/jack"
   }
 }, {
   "body": "Shitcoins are created to take your Bitcoin.",
@@ -2327,14 +2311,6 @@
     "twitter": "https://twitter.com/RealRossU"
   }
 }, {
-  "body": "Hardly anybody actually understands money.",
-  "paywall_link": "https://paywall.link/to/5c70f",
-  "date": "2011-05-01",
-  "author": {
-    "name": "Nick Szabo",
-    "twitter": "https://twitter.com/NickSzabo4"
-  }
-}, {
   "body": "It's a numbers game. And with time, Bitcoin is unstoppable.",
   "paywall_link": "https://paywall.link/to/55741",
   "date": "2020-08-24",
@@ -2381,14 +2357,6 @@
   "author": {
     "name": "Hector Rosekrans",
     "twitter": "https://twitter.com/hectorrosekrans"
-  }
-}, {
-  "body": "It is not a cryptocurrency industry, it is a Bitcoin industry.",
-  "paywall_link": "https://paywall.link/to/e980b",
-  "date": "2019-01-08",
-  "author": {
-    "name": "Neil Woodfine",
-    "twitter": "https://twitter.com/nwoodfine"
   }
 }, {
   "body": "Bitcoin is simply an opt-in, open-source software with the historically reliable property of making its users wealthy.",
@@ -2495,9 +2463,41 @@
     "twitter": "https://twitter.com/100trillionUSD"
   }
 }, {
+  "body": "It is not a cryptocurrency industry, it is a Bitcoin industry.",
+  "paywall_link": "https://paywall.link/to/e980b",
+  "date": "2019-01-08",
+  "author": {
+    "name": "Neil Woodfine",
+    "twitter": "https://twitter.com/nwoodfine"
+  }
+}, {
+  "body": "Hardly anybody actually understands money.",
+  "paywall_link": "https://paywall.link/to/5c70f",
+  "date": "2011-05-01",
+  "author": {
+    "name": "Nick Szabo",
+    "twitter": "https://twitter.com/NickSzabo4"
+  }
+}, {
+  "body": "When the war arrives, you gotta choose sides.",
+  "paywall_link": "https://paywall.link/to/2e8ca",
+  "date": "2020-10-13",
+  "author": {
+    "name": "Michael Saylor",
+    "twitter": "https://twitter.com/michael_saylor"
+  }
+}, {
+  "body": "Imagine, everything there is and everything that will ever be, divided by 21 million.",
+  "paywall_link": "https://paywall.link/to/82a87",
+  "date": "2020-10-16",
+  "author": {
+    "name": "Knut Svanholm",
+    "twitter": "https://twitter.com/knutsvanholm"
+  }
+}, {
   "body": "Bitcoin competes with central banks and base money. Liquid Network competes with SWIFT. Lightning Network competes with Visa.",
   "paywall_link": "https://paywall.link/to/d4fa8",
-  "date": "2020-10-19",
+  "date": "2018-10-19",
   "author": {
     "name": "Vortex",
     "twitter": "https://twitter.com/theonevortex"
@@ -2567,9 +2567,33 @@
     "twitter": "https://twitter.com/Breedlove22"
   }
 }, {
+  "body": "If nuclear war destroyed half of our planet, [Bitcoin] would continue to live, uncorrupted.",
+  "paywall_link": "https://paywall.link/to/38db8",
+  "date": "2016-05-31",
+  "author": {
+    "name": "Ralph Merkle",
+    "twitter": "https://en.wikipedia.org/wiki/Ralph_Merkle"
+  }
+}, {
+  "body": "Once launched it cannot be stopped, come what may.",
+  "paywall_link": "https://paywall.link/to/d27fb",
+  "date": "2018-12-28",
+  "author": {
+    "name": "Simon Morris",
+    "twitter": "https://twitter.com/simonhmorris"
+  }
+}, {
   "body": "[Bitcoin] has already won. It's won, it's been tested, and [...] the hard forks, I think, are a big advantage. The fact that Bitcoin went through it, and we saw what happened, and we saw that the community would defend Bitcoin.",
   "paywall_link": "https://paywall.link/to/64dc1",
   "date": "2020-09-16",
+  "author": {
+    "name": "Michael Saylor",
+    "twitter": "https://twitter.com/michael_saylor"
+  }
+}, {
+  "body": "Bitcoin is protected by a wall of encrypted energy. The fact that there's a lot of energy involved is a good thing. It creates security to the network.",
+  "paywall_link": "https://paywall.link/to/33c29",
+  "date": "2020-10-13",
   "author": {
     "name": "Michael Saylor",
     "twitter": "https://twitter.com/michael_saylor"
