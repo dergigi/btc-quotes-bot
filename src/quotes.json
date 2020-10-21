@@ -1559,20 +1559,20 @@
     "twitter": "https://twitter.com/gladstein"
   }
 }, {
-  "body": "Bitcoin is text. Bitcoin is speech. It cannot be regulated in a free country like the USA with guaranteed inalienable rights and a First Amendment that explicitly excludes the act of publishing from government oversight.",
-  "paywall_link": "https://paywall.link/to/1d051",
-  "date": "2018-03-15",
-  "author": {
-    "name": "Beautyon",
-    "twitter": "https://twitter.com/Beautyon_"
-  }
-}, {
   "body": "Privacy is necessary for an open society in the electronic age.",
   "paywall_link": "https://paywall.link/to/db690",
   "date": "1993-03-09",
   "author": {
     "name": "Eric Hughes",
     "twitter": "https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)"
+  }
+}, {
+  "body": "Bitcoin is text. Bitcoin is speech. It cannot be regulated in a free country like the USA with guaranteed inalienable rights and a First Amendment that explicitly excludes the act of publishing from government oversight.",
+  "paywall_link": "https://paywall.link/to/1d051",
+  "date": "2018-03-15",
+  "author": {
+    "name": "Beautyon",
+    "twitter": "https://twitter.com/Beautyon_"
   }
 }, {
   "body": "By attaching energy to a block, we give it “form”, allowing it to have real weight \u0026 consequences in the physical world.",
@@ -1815,6 +1815,14 @@
     "twitter": "https://twitter.com/thibm_"
   }
 }, {
+  "body": "We have something that is pretty organic in nature and very principled in its original design.",
+  "paywall_link": "https://paywall.link/to/3174b",
+  "date": "2020-04-24",
+  "author": {
+    "name": "Jack Dorsey",
+    "twitter": "https://twitter.com/jack"
+  }
+}, {
   "body": "Being weird is one of Bitcoin’s defense mechanisms.",
   "paywall_link": "https://paywall.link/to/1a41d",
   "date": "2020-05-16",
@@ -1885,14 +1893,6 @@
   "author": {
     "name": "Stephan Livera",
     "twitter": "https://twitter.com/stephanlivera"
-  }
-}, {
-  "body": "We have something that is pretty organic in nature and very principled in its original design.",
-  "paywall_link": "https://paywall.link/to/3174b",
-  "date": "2020-04-24",
-  "author": {
-    "name": "Jack Dorsey",
-    "twitter": "https://twitter.com/jack"
   }
 }, {
   "body": "Shitcoins are created to take your Bitcoin.",
@@ -2495,12 +2495,12 @@
     "twitter": "https://twitter.com/knutsvanholm"
   }
 }, {
-  "body": "Bitcoin competes with central banks and base money. Liquid Network competes with SWIFT. Lightning Network competes with Visa.",
-  "paywall_link": "https://paywall.link/to/d4fa8",
-  "date": "2018-10-19",
+  "body": "[Bitcoin] has already won. It's won, it's been tested, and [...] the hard forks, I think, are a big advantage. The fact that Bitcoin went through it, and we saw what happened, and we saw that the community would defend Bitcoin.",
+  "paywall_link": "https://paywall.link/to/64dc1",
+  "date": "2020-09-16",
   "author": {
-    "name": "Vortex",
-    "twitter": "https://twitter.com/theonevortex"
+    "name": "Michael Saylor",
+    "twitter": "https://twitter.com/michael_saylor"
   }
 }, {
   "body": "Bitcoin is redistribution-proof wealth.",
@@ -2567,12 +2567,28 @@
     "twitter": "https://twitter.com/Breedlove22"
   }
 }, {
+  "body": "Hard money cannot stay niche.",
+  "paywall_link": "https://paywall.link/to/a0951",
+  "date": "2020-01-01",
+  "author": {
+    "name": "Saifedean Ammous",
+    "twitter": "https://twitter.com/saifedean"
+  }
+}, {
   "body": "If nuclear war destroyed half of our planet, [Bitcoin] would continue to live, uncorrupted.",
   "paywall_link": "https://paywall.link/to/38db8",
   "date": "2016-05-31",
   "author": {
     "name": "Ralph Merkle",
     "twitter": "https://en.wikipedia.org/wiki/Ralph_Merkle"
+  }
+}, {
+  "body": "The heartbeat of the Bitcoin network will outlast all of ours.",
+  "paywall_link": "https://paywall.link/to/ac6ad",
+  "date": "2018-12-21",
+  "author": {
+    "name": "Gigi",
+    "twitter": "https://twitter.com/dergigi"
   }
 }, {
   "body": "Once launched it cannot be stopped, come what may.",
@@ -2583,12 +2599,20 @@
     "twitter": "https://twitter.com/simonhmorris"
   }
 }, {
-  "body": "[Bitcoin] has already won. It's won, it's been tested, and [...] the hard forks, I think, are a big advantage. The fact that Bitcoin went through it, and we saw what happened, and we saw that the community would defend Bitcoin.",
-  "paywall_link": "https://paywall.link/to/64dc1",
-  "date": "2020-09-16",
+  "body": "Bitcoin competes with central banks and base money. Liquid Network competes with SWIFT. Lightning Network competes with Visa.",
+  "paywall_link": "https://paywall.link/to/d4fa8",
+  "date": "2020-10-19",
   "author": {
-    "name": "Michael Saylor",
-    "twitter": "https://twitter.com/michael_saylor"
+    "name": "Vortex",
+    "twitter": "https://twitter.com/theonevortex"
+  }
+}, {
+  "body": "Bitcoin is for the politically unconnected.",
+  "paywall_link": "https://paywall.link/to/3f805",
+  "date": "2020-10-09",
+  "author": {
+    "name": "Russell Okung",
+    "twitter": "https://twitter.com/RussellOkung"
   }
 }, {
   "body": "Bitcoin is protected by a wall of encrypted energy. The fact that there's a lot of energy involved is a good thing. It creates security to the network.",
