@@ -1367,14 +1367,6 @@
     "twitter": "https://bitcointalk.org/index.php?action=profile;u=26945"
   }
 }, {
-  "body": "Those who wait last to convert to bitcoin will be impoverished by Bitcoin.",
-  "paywall_link": "https://paywall.link/to/968fd",
-  "date": "2019-06-05",
-  "author": {
-    "name": "David Bailey",
-    "twitter": "https://twitter.com/DavidFBailey"
-  }
-}, {
   "body": "It doesn't matter if you have nothing to hide. Because privacy isn't about something to hide. Privacy is about something to protect. And the thing to protect is a free and open society.",
   "paywall_link": "https://paywall.link/to/5f8a0",
   "date": "2019-06-29",
@@ -1389,6 +1381,14 @@
   "author": {
     "name": "Jimmy Song",
     "twitter": "https://twitter.com/jimmysong"
+  }
+}, {
+  "body": "Those who wait last to convert to bitcoin will be impoverished by Bitcoin.",
+  "paywall_link": "https://paywall.link/to/968fd",
+  "date": "2019-06-05",
+  "author": {
+    "name": "David Bailey",
+    "twitter": "https://twitter.com/DavidFBailey"
   }
 }, {
   "body": "Isn’t it ironic that Bitcoin has taught me more about money than all these years I’ve spent working for financial institutions?",
@@ -1559,20 +1559,20 @@
     "twitter": "https://twitter.com/gladstein"
   }
 }, {
-  "body": "Privacy is necessary for an open society in the electronic age.",
-  "paywall_link": "https://paywall.link/to/db690",
-  "date": "1993-03-09",
-  "author": {
-    "name": "Eric Hughes",
-    "twitter": "https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)"
-  }
-}, {
   "body": "Bitcoin is text. Bitcoin is speech. It cannot be regulated in a free country like the USA with guaranteed inalienable rights and a First Amendment that explicitly excludes the act of publishing from government oversight.",
   "paywall_link": "https://paywall.link/to/1d051",
   "date": "2018-03-15",
   "author": {
     "name": "Beautyon",
     "twitter": "https://twitter.com/Beautyon_"
+  }
+}, {
+  "body": "Privacy is necessary for an open society in the electronic age.",
+  "paywall_link": "https://paywall.link/to/db690",
+  "date": "1993-03-09",
+  "author": {
+    "name": "Eric Hughes",
+    "twitter": "https://en.wikipedia.org/wiki/Eric_Hughes_(cypherpunk)"
   }
 }, {
   "body": "By attaching energy to a block, we give it “form”, allowing it to have real weight \u0026 consequences in the physical world.",
@@ -1735,20 +1735,20 @@
     "twitter": "https://twitter.com/ObiWanKenoBit"
   }
 }, {
-  "body": "I like to call the lightning network a fee aggregation network.",
-  "paywall_link": "https://paywall.link/to/f1b3a",
-  "date": "2019-04-12",
-  "author": {
-    "name": "Sergej Kotliar",
-    "twitter": "https://twitter.com/ziggamon"
-  }
-}, {
   "body": "You can securely control neither your land nor your digitally centralized financial assets without the help of government. Thus the locality \u0026 importance of legal ownership in these things. You can securely control your globally seamless Bitcoin without the help of government.",
   "paywall_link": "https://paywall.link/to/86523",
   "date": "2020-01-07",
   "author": {
     "name": "Nick Szabo",
     "twitter": "https://twitter.com/NickSzabo4"
+  }
+}, {
+  "body": "Satoshi Nakamoto's main invention is the decentralized mechanism for emergent consensus.",
+  "paywall_link": "https://paywall.link/to/89aae",
+  "date": "2017-07-03",
+  "author": {
+    "name": "Andreas Antonopoulos",
+    "twitter": "https://twitter.com/aantonop"
   }
 }, {
   "body": "Honey badger don’t care, honey badger don’t give a fuck.",
@@ -1765,14 +1765,6 @@
   "author": {
     "name": "Patrick McHenry",
     "twitter": "https://twitter.com/PatrickMcHenry"
-  }
-}, {
-  "body": "Satoshi Nakamoto's main invention is the decentralized mechanism for emergent consensus.",
-  "paywall_link": "https://paywall.link/to/89aae",
-  "date": "2017-07-03",
-  "author": {
-    "name": "Andreas Antonopoulos",
-    "twitter": "https://twitter.com/aantonop"
   }
 }, {
   "body": "Bitcoin enables individuals to reclaim and reassert their Natural Rights using a system that is inherently significantly harder to control.",
@@ -1807,20 +1799,20 @@
     "twitter": "https://twitter.com/MartyBent"
   }
 }, {
+  "body": "I like to call the lightning network a fee aggregation network.",
+  "paywall_link": "https://paywall.link/to/f1b3a",
+  "date": "2019-04-12",
+  "author": {
+    "name": "Sergej Kotliar",
+    "twitter": "https://twitter.com/ziggamon"
+  }
+}, {
   "body": "Bitcoin is so simple, yet so complex.",
   "paywall_link": "https://paywall.link/to/1b825",
   "date": "2020-04-22",
   "author": {
     "name": "Thibaud Maréchal",
     "twitter": "https://twitter.com/thibm_"
-  }
-}, {
-  "body": "We have something that is pretty organic in nature and very principled in its original design.",
-  "paywall_link": "https://paywall.link/to/3174b",
-  "date": "2020-04-24",
-  "author": {
-    "name": "Jack Dorsey",
-    "twitter": "https://twitter.com/jack"
   }
 }, {
   "body": "Being weird is one of Bitcoin’s defense mechanisms.",
@@ -1893,6 +1885,14 @@
   "author": {
     "name": "Stephan Livera",
     "twitter": "https://twitter.com/stephanlivera"
+  }
+}, {
+  "body": "We have something that is pretty organic in nature and very principled in its original design.",
+  "paywall_link": "https://paywall.link/to/3174b",
+  "date": "2020-04-24",
+  "author": {
+    "name": "Jack Dorsey",
+    "twitter": "https://twitter.com/jack"
   }
 }, {
   "body": "Shitcoins are created to take your Bitcoin.",
@@ -2351,14 +2351,6 @@
     "twitter": "https://twitter.com/StopAndDecrypt"
   }
 }, {
-  "body": "Satoshi built all of humanity a weapon to take that power for ourselves.",
-  "paywall_link": "https://paywall.link/to/655df",
-  "date": "2019-04-11",
-  "author": {
-    "name": "Hector Rosekrans",
-    "twitter": "https://twitter.com/hectorrosekrans"
-  }
-}, {
   "body": "Bitcoin is simply an opt-in, open-source software with the historically reliable property of making its users wealthy.",
   "paywall_link": "https://paywall.link/to/bf7b8",
   "date": "2019-08-12",
@@ -2471,6 +2463,14 @@
     "twitter": "https://twitter.com/nwoodfine"
   }
 }, {
+  "body": "Satoshi built all of humanity a weapon to take that power for ourselves.",
+  "paywall_link": "https://paywall.link/to/655df",
+  "date": "2019-04-11",
+  "author": {
+    "name": "Hector Rosekrans",
+    "twitter": "https://twitter.com/hectorrosekrans"
+  }
+}, {
   "body": "Hardly anybody actually understands money.",
   "paywall_link": "https://paywall.link/to/5c70f",
   "date": "2011-05-01",
@@ -2493,14 +2493,6 @@
   "author": {
     "name": "Knut Svanholm",
     "twitter": "https://twitter.com/knutsvanholm"
-  }
-}, {
-  "body": "[Bitcoin] has already won. It's won, it's been tested, and [...] the hard forks, I think, are a big advantage. The fact that Bitcoin went through it, and we saw what happened, and we saw that the community would defend Bitcoin.",
-  "paywall_link": "https://paywall.link/to/64dc1",
-  "date": "2020-09-16",
-  "author": {
-    "name": "Michael Saylor",
-    "twitter": "https://twitter.com/michael_saylor"
   }
 }, {
   "body": "Bitcoin is redistribution-proof wealth.",
@@ -2575,12 +2567,12 @@
     "twitter": "https://twitter.com/saifedean"
   }
 }, {
-  "body": "If nuclear war destroyed half of our planet, [Bitcoin] would continue to live, uncorrupted.",
-  "paywall_link": "https://paywall.link/to/38db8",
-  "date": "2016-05-31",
+  "body": "[Bitcoin] has already won. It's won, it's been tested, and [...] the hard forks, I think, are a big advantage. The fact that Bitcoin went through it, and we saw what happened, and we saw that the community would defend Bitcoin.",
+  "paywall_link": "https://paywall.link/to/64dc1",
+  "date": "2020-09-16",
   "author": {
-    "name": "Ralph Merkle",
-    "twitter": "https://en.wikipedia.org/wiki/Ralph_Merkle"
+    "name": "Michael Saylor",
+    "twitter": "https://twitter.com/michael_saylor"
   }
 }, {
   "body": "The heartbeat of the Bitcoin network will outlast all of ours.",
@@ -2589,14 +2581,6 @@
   "author": {
     "name": "Gigi",
     "twitter": "https://twitter.com/dergigi"
-  }
-}, {
-  "body": "Once launched it cannot be stopped, come what may.",
-  "paywall_link": "https://paywall.link/to/d27fb",
-  "date": "2018-12-28",
-  "author": {
-    "name": "Simon Morris",
-    "twitter": "https://twitter.com/simonhmorris"
   }
 }, {
   "body": "Bitcoin competes with central banks and base money. Liquid Network competes with SWIFT. Lightning Network competes with Visa.",
@@ -2621,5 +2605,45 @@
   "author": {
     "name": "Michael Saylor",
     "twitter": "https://twitter.com/michael_saylor"
+  }
+}, {
+  "body": "If nuclear war destroyed half of our planet, [Bitcoin] would continue to live, uncorrupted.",
+  "paywall_link": "https://paywall.link/to/38db8",
+  "date": "2016-05-31",
+  "author": {
+    "name": "Ralph Merkle",
+    "twitter": "https://en.wikipedia.org/wiki/Ralph_Merkle"
+  }
+}, {
+  "body": "Once launched it cannot be stopped, come what may.",
+  "paywall_link": "https://paywall.link/to/d27fb",
+  "date": "2018-12-28",
+  "author": {
+    "name": "Simon Morris",
+    "twitter": "https://twitter.com/simonhmorris"
+  }
+}, {
+  "body": "For the first time in human history, you can take all of your wealth and your life force. You can put it into an asset, you can keep the keys, you can take custody [...] No government, no bank, can take it away from you. There's nobody to tell you: 'you can't own your life force.'",
+  "paywall_link": "https://paywall.link/to/f9543",
+  "date": "2020-10-20",
+  "author": {
+    "name": "Michael Saylor",
+    "twitter": "https://twitter.com/michael_saylor"
+  }
+}, {
+  "body": "I'm not here to fix Bitcoin.",
+  "paywall_link": "https://paywall.link/to/c5306",
+  "date": "2020-11-06",
+  "author": {
+    "name": "Michael Saylor",
+    "twitter": "https://twitter.com/michael_saylor"
+  }
+}, {
+  "body": "The genesis behind so many of the whitepapers and the ICOs and all of this stuff is not understanding proof-of-work; not appreciating proof-of-work.",
+  "paywall_link": "https://paywall.link/to/89bc2",
+  "date": "2020-11-04",
+  "author": {
+    "name": "Ryan Gentry",
+    "twitter": "https://twitter.com/RyanTheGentry"
   }
 }]
