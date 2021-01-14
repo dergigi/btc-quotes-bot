@@ -5,6 +5,8 @@
   "main": "index.js",
   "scripts": {
     "start": "node index.js",
+    "start:twitter": "node twitter.js",
+    "start:mastodon": "node mastodon.js",
     "test": "./node_modules/.bin/mocha --reporter spec",
     "lint": "node_modules/.bin/goodparts *.js src/**",
     "reply": "node reply.js",
@@ -12,6 +14,7 @@
   },
   "keywords": [
     "twitter",
+    "mastodon",
     "bot",
     "quote",
     "bitcoin"
@@ -21,6 +24,7 @@
   "dependencies": {
     "dotenv": "^6.2.0",
     "goodparts": "^1.2.1",
+    "mastodon": "^1.2.2",
     "mocha": "^5.2.0",
     "twit": "^2.2.11"
   }
