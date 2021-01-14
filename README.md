@@ -15,3 +15,30 @@ Feel free to [follow the bot](https://twitter.com/intent/follow?screen_name=btc_
 Made with ❤️ by [@dergigi](https://github.com/dergigi/). Happy about any contributions. If you can't contribute but have some satoshis to spare, feel free to [throw a taco](https://tippin.me/@dergigi) in my general direction! [🌮⚡️](https://tippin.me/@dergigi)
 
 [![Follow @btc_quotes](https://img.shields.io/twitter/follow/btc_quotes.svg?style=social&logo=twitter)](https://twitter.com/intent/follow?screen_name=btc_quotes)
+
+---
+
+# How to run
+
+## Installation
+`npm install`
+
+## Run
+
+The script depends on the following environment variables.
+
+- POST_TO_TWITTER (set to true to run on twitter)
+- CONSUMER_KEY
+- CONSUMER_SECRET
+- ACCESS_TOKEN
+- ACCESS_TOKEN_SECRET
+---
+- POST_TO_MASTODON (set to true to run on mastodon)
+- MASTODON_ACCESS_TOKEN
+- MASTODON_URL (optional, defaults to https://bitcoinhackers.org/api/v1/)
+
+
+Example for running on mastodon:
+
+`POST_TO_MASTODON=true MASTODON_ACCESS_TOKEN=YOUR-ACCESS-TOKEN node index.js `
+
