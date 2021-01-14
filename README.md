@@ -35,6 +35,7 @@ The script depends on the following environment variables.
 ---
 - POST_TO_MASTODON (set to true to run on mastodon)
 - MASTODON_ACCESS_TOKEN
+- MASTODON_URL (optional, defaults to https://bitcoinhackers.org/api/v1/)
 
 
 Example for running on mastodon:
