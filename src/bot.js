@@ -27,7 +27,7 @@ function postRandomQuote() {
  * @return {string}
 */
 function formatQuoteWithAuthor(quote) {
-  var quoteWithAuthor = "\"" + quote.body + "\" ― "
+  var quoteWithAuthor = "\"" + quote.body + "\" —"
   if (isAuthorOnTwitter(quote)) {
     quoteWithAuthor += getAuthorTwitterHandle(quote)
   } else {
